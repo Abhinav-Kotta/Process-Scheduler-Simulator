@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/process-scheduler/static/css/main.832468e6.css",
-    "main.js": "/process-scheduler/static/js/main.70b20e0a.js",
-    "static/js/453.0348a4a9.chunk.js": "/process-scheduler/static/js/453.0348a4a9.chunk.js",
-    "index.html": "/process-scheduler/index.html",
-    "main.832468e6.css.map": "/process-scheduler/static/css/main.832468e6.css.map",
-    "main.70b20e0a.js.map": "/process-scheduler/static/js/main.70b20e0a.js.map",
-    "453.0348a4a9.chunk.js.map": "/process-scheduler/static/js/453.0348a4a9.chunk.js.map"
+    "main.css": "/Process-Scheduler-Simulator/static/css/main.832468e6.css",
+    "main.js": "/Process-Scheduler-Simulator/static/js/main.7e0a022f.js",
+    "static/js/453.0348a4a9.chunk.js": "/Process-Scheduler-Simulator/static/js/453.0348a4a9.chunk.js",
+    "index.html": "/Process-Scheduler-Simulator/index.html",
+    "main.832468e6.css.map": "/Process-Scheduler-Simulator/static/css/main.832468e6.css.map",
+    "main.7e0a022f.js.map": "/Process-Scheduler-Simulator/static/js/main.7e0a022f.js.map",
+    "453.0348a4a9.chunk.js.map": "/Process-Scheduler-Simulator/static/js/453.0348a4a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.832468e6.css",
-    "static/js/main.70b20e0a.js"
+    "static/js/main.7e0a022f.js"
   ]
 }
