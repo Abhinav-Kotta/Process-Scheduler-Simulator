@@ -25,7 +25,11 @@ def fifo_scheduler(processes, runfor):
             timeline.append(f"Time {time} : Idle")
             time += 1
 
-        timeline.append(f"Time {time} : {process.name} arrived")
+        temp = process
+
+        for temp in processes:
+            if temp.arrival == time:
+                timeline.append(f"Time {time} : {temp.name} arrived")
         timeline.append(f"Time {time} : {process.name} selected (burst {process.burst})")
 
         time += process.burst
