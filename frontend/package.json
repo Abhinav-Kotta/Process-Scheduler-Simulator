@@ -1,7 +1,7 @@
 {
   "name": "process-scheduler-simulator",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/process-scheduler",
+  "homepage": "https://Abhinav-Kotta.github.io/Process-Scheduler-Simulator",
   "private": true,
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.1",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
